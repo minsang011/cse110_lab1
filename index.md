@@ -2,7 +2,7 @@
 ![Cooperation](cooperation.png) <br>
 [README for this website](README.md) <br>
 Hello, my name is Minsang Kim (just call me Min) and currently and fourth year CE major at UC San Diego. <br>
-**Above is my life motto**
+**Below is my life motto**
 > "There is something to be grateful for in everything." <br>
 
 You can find my projects and works through my [github](https://github.com/minsang011) <br>
