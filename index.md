@@ -1,4 +1,4 @@
-# Min Kim's User Page # <br>
+# Min Kim's User Page <br>
 ![Cooperation](cooperation.png) <br>
 [README for this website](README.md) <br>
 Hello, my name is Minsang Kim (just call me Min) and currently and fourth year CE major at UC San Diego. <br>
